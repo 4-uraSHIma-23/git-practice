@@ -1,1 +1,1 @@
-hoge max
+hoge mad max
